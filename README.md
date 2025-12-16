@@ -32,7 +32,7 @@ Zbog toga se komunikacija prema partnerima i dalje odvija putem e-maila, dok se 
 ## 📊 Funkcionalni moduli
 
 ### 📌 Dashboard
-<img width="1200" height="779" alt="image" src="https://github.com/user-attachments/assets/6d6bbbb8-8522-437e-8825-11d78f7cb3e2" />
+<img width="1198" height="779" alt="image" src="https://github.com/user-attachments/assets/b954dd25-a205-4e24-99c2-51cdeaf65640" />
 
 Centralni pregled stanja sistema sa osnovnim statistikama:
 - broj filmova, partnera i booking termina  
@@ -42,7 +42,7 @@ Centralni pregled stanja sistema sa osnovnim statistikama:
 ---
 
 ### 🎟️ Booking
-<img width="1198" height="779" alt="image" src="https://github.com/user-attachments/assets/1dd44e99-4baa-4854-a2ad-9dcb4563c608" />
+<img width="1198" height="778" alt="image" src="https://github.com/user-attachments/assets/0ae366cd-6ae9-4f3f-aa20-e56d8cc259f4" />
 
 Modul za kreiranje i upravljanje booking terminima:
 - unos filma, partnera i perioda prikazivanja  
@@ -53,8 +53,8 @@ Modul za kreiranje i upravljanje booking terminima:
 ---
 
 ### 🏢 Partneri
-<img width="1199" height="776" alt="image" src="https://github.com/user-attachments/assets/86e1ce8e-d399-46e7-8c41-4a577a15f880" />
- 
+<img width="1198" height="778" alt="image" src="https://github.com/user-attachments/assets/8c774904-ce2e-4a07-b75e-f42ed1f22cd2" />
+
 Baza kino partnera:
 - naziv kina, grad, adresa  
 - kontakt osoba, email i telefon  
@@ -64,8 +64,8 @@ Baza kino partnera:
 ---
 
 ### 🎞️ Filmovi
-<img width="1200" height="780" alt="image" src="https://github.com/user-attachments/assets/fc51a4f9-4ab9-44db-9f28-32513f7f28c9" />
- 
+<img width="1198" height="779" alt="image" src="https://github.com/user-attachments/assets/d9ab39cf-5646-4c83-8380-29d8a382cf4f" />
+
 Centralizovana baza filmova:
 - naziv i originalni naziv  
 - žanr, trajanje, godina izlaska  
@@ -75,8 +75,8 @@ Centralizovana baza filmova:
 ---
 
 ### 📅 Booking kalendar
-<img width="1201" height="778" alt="image" src="https://github.com/user-attachments/assets/d35203f9-b44f-4ce8-aea1-a9ae48ebccf7" />
- 
+<img width="1199" height="779" alt="image" src="https://github.com/user-attachments/assets/af990f46-50f4-4917-9a1b-7a954a47cfa8" />
+
 Vizuelni kalendarski prikaz svih termina:
 - pregled projekcija po danima i mjesecima  
 - filtriranje po filmu ili partneru  
@@ -85,7 +85,7 @@ Vizuelni kalendarski prikaz svih termina:
 ---
 
 ### ⚙️ Postavke
-<img width="1199" height="777" alt="image" src="https://github.com/user-attachments/assets/af7234b0-1b65-43f8-a503-30cbc4b51376" />
+<img width="1200" height="779" alt="image" src="https://github.com/user-attachments/assets/ec1c79f6-6a96-4662-9fa2-6fef1211d791" />
 
 Administrativne i korisničke postavke:
 - upravljanje korisničkim nalozima i ulogama  

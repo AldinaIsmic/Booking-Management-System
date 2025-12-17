@@ -108,7 +108,23 @@ Administrativne i korisničke postavke:
 
 ✔️ Projekat razvijen kao **akademski i praktični softverski sistem**  
 ✔️ Korišten u svrhu demonstracije modernog desktop rješenja  
-✔️ Spreman za prezentaciju i dalju nadogradnju  
+✔️ Spreman za prezentaciju i dalju nadogradnju
+
+## 🧩 Instalacija i korištenje
+
+Koraci instalacije
+
+- Preuzmite kompletan projekat sa ovog GitHub repozitorija kao ZIP arhivu
+  (Code → Download ZIP).
+- Raspakujte (extract) preuzetu ZIP arhivu na željenu lokaciju na računaru.
+- U raspakovanom folderu pronađite izvršnu datoteku UNA-Booking-1.0.exe.
+- Dvoklikom pokrenite izvršnu datoteku kako biste započeli proces instalacije.
+- Pratite korake instalacijskog čarobnjaka klikom na dugme Next sve do završetka instalacije.
+- Nakon uspješne instalacije, ikona aplikacije će se automatski pojaviti na Desktopu.
+  
+Korištenje aplikacije
+- Pokrenite aplikaciju dvoklikom na ikonu na Desktopu.
+- Aplikacija je spremna za korištenje bez dodatnih podešavanja ili konfiguracije.
 
 ## Authors
 

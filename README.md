@@ -30,6 +30,15 @@ Zbog toga se komunikacija prema partnerima i dalje odvija putem e-maila, dok se 
 
 ## 📊 Funkcionalni moduli
 
+### 🔐 Login ekran (UNA Booking)
+<img width="1199" height="779" alt="image" src="https://github.com/user-attachments/assets/cdc6d477-557d-405f-ae75-baec9dab110a" />
+
+- Početni ekran aplikacije za autentifikaciju korisnika
+- Unos korisničkog imena i šifre
+- Siguran pristup sistemu prema dodijeljenim ovlaštenjima
+- Jednostavan i moderan UI usklađen s brendom UNA Film
+- Nakon uspješne prijave korisnik dobija pristup glavnim modulima aplikacije
+
 ### 📌 Dashboard
 <img width="1198" height="779" alt="image" src="https://github.com/user-attachments/assets/b954dd25-a205-4e24-99c2-51cdeaf65640" />
 

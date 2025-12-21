@@ -49,6 +49,17 @@ Centralni pregled stanja sistema sa osnovnim statistikama:
 
 ---
 
+### 🎟️ Booking (glavni pregled / upravljanje)
+<img width="1195" height="776" alt="1" src="https://github.com/user-attachments/assets/500859ee-4ae3-4aaf-a378-13ef7ce8bbe4" />
+
+- Centralni prikaz svih booking termina u sistemu (film + partner + period prikazivanja)
+- Sažetak statistike na vrhu: ukupno, potvrđeni, odbijeni, na čekanju
+- Tabela sa ključnim kolonama: Film, Partner, Datum početka, Datum završetka, Materijal, Status, Kreirao, Kreirano
+- Filteri za brže pretraživanje i prikaz (npr. po statusu/partneru)
+- Brze akcije: + Dodaj Booking za unos novog termina
+- Pregled detalja za svaki unos preko dugmeta Detalji
+- Scroll/paginacija omogućava rad i sa većim brojem booking zapisa
+
 ### 🎟️ Booking
 <img width="1198" height="778" alt="image" src="https://github.com/user-attachments/assets/0ae366cd-6ae9-4f3f-aa20-e56d8cc259f4" />
 

@@ -68,6 +68,22 @@ Modul za kreiranje i upravljanje booking terminima:
 - validacija datuma i podataka prije snimanja  
 - evidencija statusa (aktivno, završeno, izmijenjeno)  
 
+### 🎟️ Detalji booking
+<img width="718" height="795" alt="image" src="https://github.com/user-attachments/assets/fa1091ba-b15c-4510-a413-98f112ff359b" />
+
+Booking Details Module
+- Prikaz detalja pojedinačnog bookinga (film, partner/kino, period prikazivanja, format, status)
+- Informacije o referentu i datumu kreiranja
+- Akcije nad bookingom: brisanje i zatvaranje pregleda
+- Export bookinga u Excel (.xlsx) tabelu za evidenciju i dalju obradu
+
+### 🎟️ Excel export
+<img width="1183" height="463" alt="image" src="https://github.com/user-attachments/assets/fde471ba-b1de-41dc-b697-c696b7bf36bd" />
+
+- Export detalja bookinga u Excel (.xlsx) format
+- Strukturirana tabela sa svim ključnim podacima (film, partner, period, materijal, status, referent, datum kreiranja)
+- Formatirano i spremno za administrativnu evidenciju i dalju obradu
+- Implementirano prema zahtjevima firme (UNA Film d.o.o.)
 
 ---
 

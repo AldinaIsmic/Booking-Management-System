@@ -193,7 +193,7 @@ Admin (puna kontrola sistema)
 
 Referent (ograničene ovlasti)
 - Korisničko ime: referent
-- Šifra: referent
+- Šifra:  referent
 
 
 ## Authors

@@ -69,7 +69,7 @@ Modul za kreiranje i upravljanje booking terminima:
 - evidencija statusa (aktivno, završeno, izmijenjeno)  
 
 ### 🎟️ Detalji booking
-<img width="718" height="795" alt="image" src="https://github.com/user-attachments/assets/fa1091ba-b15c-4510-a413-98f112ff359b" />
+
 
 Booking Details Module
 - Prikaz detalja pojedinačnog bookinga (film, partner/kino, period prikazivanja, format, status)
